@@ -1,0 +1,1 @@
+# Django-Music_rating_app
